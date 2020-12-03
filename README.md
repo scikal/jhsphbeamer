@@ -1,5 +1,5 @@
-# jhsphbeamer
-A beamer theme for the JHU Department of Biology
+# jhu-krieger-beamer
+A beamer theme for the Johns Hopkins Department of Biology
 
 This template is a modified version of The University of Tennessee, Knoxville theme made by Enda Hargaden and is meant to approximate the official JHSPH Power Point template, which you can view [here](https://my.jhsph.edu/Offices/ExternalAffairs/OfficeCommunications/Documents/Forms/AllItems.aspx?RootFolder=%2fOffices%2fExternalAffairs%2fOfficeCommunications%2fDocuments%2fPowerpoint%20Templates&FolderCTID=&View=%7b87F1BD1E%2d84FA%2d40B7%2d9F41%2dFD46C31048D5%7d) with a JHSPH login. 
 
